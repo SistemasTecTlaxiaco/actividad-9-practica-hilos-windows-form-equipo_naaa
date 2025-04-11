@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto8_Hilos/1.0.0": {
+        "runtime": {
+          "Proyecto8_Hilos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto8_Hilos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
