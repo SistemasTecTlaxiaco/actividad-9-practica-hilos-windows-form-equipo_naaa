@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Component_Boton\BotonPersonalizado.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Component_Panel\Component1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Component_TexBox\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Form_Usuario.cs">
       <SubType>Form</SubType>
     </Compile>

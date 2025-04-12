@@ -21,7 +21,6 @@ C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\bin\Debug\net8.0-window
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\bin\Debug\net8.0-windows\Proyecto8_Hilos.runtimeconfig.json
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\bin\Debug\net8.0-windows\Proyecto8_Hilos.dll
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\bin\Debug\net8.0-windows\Proyecto8_Hilos.pdb
-C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.Form1.resources
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.Properties.Resources.resources
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.csproj.GenerateResource.cache
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.GeneratedMSBuildEditorConfig.editorconfig
@@ -34,3 +33,8 @@ C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-window
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.pdb
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.genruntimeconfig.cache
 C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\ref\Proyecto8_Hilos.dll
+C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.Form_Acceso.resources
+C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.Form_Contraseña.resources
+C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.Form_Inicio.resources
+C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\Proyecto8_Hilos.Form_Usuario.resources
+C:\Users\lopez\Documents\Proyecto8_Hilos\Proyecto8_Hilos\obj\Debug\net8.0-windows\CustomControls.RJControls.RJTextBox.resources
