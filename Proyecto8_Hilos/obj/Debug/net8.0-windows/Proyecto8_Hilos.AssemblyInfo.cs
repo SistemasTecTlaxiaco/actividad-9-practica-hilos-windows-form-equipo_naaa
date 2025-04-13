@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto8_Hilos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84bc19c5383912459c95a9ccbdc69853eb7e08e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74724f8c1bf4d7cf71d21589e94b1bd5976a7f62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto8_Hilos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto8_Hilos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
