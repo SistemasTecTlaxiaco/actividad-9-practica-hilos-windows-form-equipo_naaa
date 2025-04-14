@@ -2,6 +2,7 @@ namespace Proyecto8_Hilos
 {
     public partial class Form_Acceso : Form
     {
+        
         public Form_Acceso()
         {
             InitializeComponent();
@@ -14,7 +15,10 @@ namespace Proyecto8_Hilos
 
         private void label1_Click(object sender, EventArgs e) { }
 
-        private void button1_Click(object sender, EventArgs e) { }
+        private void button1_Click(object sender, EventArgs e) {
+            Form_Inicio nuevaventana = new Form_Inicio();
+            nuevaventana.Show();
+        }
 
         private void label2_Click(object sender, EventArgs e) { }
 
